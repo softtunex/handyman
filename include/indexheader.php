@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="Font-Awesome-master/css/all.css">
     <link rel="stylesheet" type="text/css" href="owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         nav a.nav-link {
             color: #fff !important;
